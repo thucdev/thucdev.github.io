@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "How to build a distributed transactional for application?"
-author: William
-categories: [Technology]
-tags: [system-design, transaction]
+author: william
+# categories: [Technology]
+tags: [system design, transaction]
 image: assets/images/distributed-transaction.jpeg
 beforetoc: "Nowadays microservice is use wildly and as an important architecture of many companies. So how to handle transaction in microservices"
 toc: true
-rating: 4.2
+rating: 4
 ---
 
 Let's talk about what the distributed transaction is? And what is its role?
