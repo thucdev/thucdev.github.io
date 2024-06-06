@@ -1,5 +1,7 @@
-# Memoirs Jekyll Theme
+https://thucdev.github.io/
 
-[Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/jekyll-theme-memoirs/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+<!-- # Memoirs Jekyll Theme -->
 
-![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
+<!-- [Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/jekyll-theme-memoirs/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+
+![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg) -->
